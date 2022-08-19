@@ -20,11 +20,11 @@ include:
 # Site settings
 title: Temitope Odeyemi
 long-title: Temitope Design
-email: mattgreydesign@gmail.com
+email: screamitmedia@gmail.com
 description: "The selected portfolio of London based digital product designer Matt Grey"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://himatt.com" # the base hostname & protocol for your site
-timezone: Europe/London
+url: "https://temitope.design" # the base hostname & protocol for your site
+timezone: Europe/Nicosia
 year: 2021
 start-year: 2010
 sitemap: true
