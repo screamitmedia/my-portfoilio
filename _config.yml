@@ -20,7 +20,7 @@ include:
 # Site settings
 title: Temitope Odeyemi
 long-title: Temitope Design
-email: screamitmedia@gmail.com
+email: edit@gmail.com
 description: "The selected portfolio of London based digital product designer Matt Grey"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://temitope.design" # the base hostname & protocol for your site
