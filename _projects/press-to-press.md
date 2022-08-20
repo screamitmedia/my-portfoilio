@@ -1,6 +1,6 @@
 ---
 date: 2014-02-20
-published: true
+published: false
 title: "Press to Press"
 description: "A book about the evolution of typography on vinyl record covers"
 categories: print, music
