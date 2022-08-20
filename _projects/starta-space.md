@@ -1,6 +1,6 @@
 ---
 date: 2015-02-20
-published: false
+published: true
 title: "Starta Space"
 description: "An ongoing project to create site/portfolio building service"
 categories: ux, brand, personal
