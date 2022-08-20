@@ -1,10 +1,10 @@
 ---
 # will generate redirects from redirect_from in page frontmatter
 ---
-https://temitope.design/* {{ site.url }}/:splat 301!
-https://temitope.design/* {{ site.url }}/:splat 301!
-http://temitope.design/* {{ site.url }}/:splat 301!
-http://temitope.design/* {{ site.url }}/:splat 301!
+https://behance.net/temieo/* {{ site.url }}/:splat 301!
+https://behance.net/temieo/* {{ site.url }}/:splat 301!
+https://behance.net/temieo/* {{ site.url }}/:splat 301!
+https://behance.net/temieo/* {{ site.url }}/:splat 301!
 /blog/* {{ site.url }}/:splat 301
 
 /portfolio / 301
