@@ -1,7 +1,7 @@
 ---
 sitemap: false
 date: 2019-06-01
-published: false
+published: true
 title: "Knolo"
 description: "Creating an app for tracking and evidencing extra-curricular education"
 categories: ux, ui, branding, ia, app
