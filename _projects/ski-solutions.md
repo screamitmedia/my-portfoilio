@@ -1,6 +1,6 @@
 ---
 date: 2017-6-1
-published: true
+published: false
 title: "Ski Solutions"
 description: "Responsive experience redesign for a tailor-made ski tour operator"
 categories: website, ux, mobile

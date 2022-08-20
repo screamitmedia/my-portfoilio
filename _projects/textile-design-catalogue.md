@@ -1,6 +1,6 @@
 ---
 date: 2014-02-19
-published: true
+published: false
 title: "Textile Design Catalogue"
 description: "A catalogue for 2013 graduates of the Textile Design course at Falmouth University"
 categories: print

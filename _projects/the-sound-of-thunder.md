@@ -1,6 +1,6 @@
 ---
 date: 2011-02-20
-published: true
+published: false
 title: "The Sound of Thunder"
 redirect_from: /projects/sound-thunder
 description: "An illustrated book exploring the events of a Mötorhead gig"
