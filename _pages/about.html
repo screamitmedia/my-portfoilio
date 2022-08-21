@@ -23,8 +23,8 @@ experience:
   #  position: Product designer (Senior)
   #  period: August 2020 - Present
 
-  - company: Voices of International Students, Cyprus. (Voluntary Organization )
-    position: Visual Artist, Design Systems
+  - company: Voices of International Students, Cyprus. (Voluntary Organization)
+    position: Visual Artist.
     period: Nov 2021 - Present
 
   # - company: Acuris
@@ -68,11 +68,11 @@ education:
     place: Don Bosco Technical Institute.
     period: 2013
 
-competition:
-  - English
- #  period: 2019 - 2020
- #  result: Shortlisted - Team Knolo
- #   link: https://www.culturemile.london/fusion-prize-shortlist/knolo
+competitions:
+  - event: English
+    period: 
+    result: 
+    link: 
     # https://www.youtube.com/watch?v=ufmXwUdZJeY&feature=emb_title&ab_channel=CultureMile
 
  # - event: RESI Hackathon
@@ -178,10 +178,10 @@ tools:
           </dl>
         </div>
 
-        <div class="about-section about-section--nested">
-           <h3 class="about-section-title type-level-2">Language</h3> 
+    <div class="about-section about-section--nested">
+          <h3 class="about-section-title type-level-2">Language</h3>
           <dl class="relational-list">
-             {% for competition-item in page.competitions %} 
+            {% for competition-item in page.competitions %}
               <dt class="relational-list__title">{{ competition-item.event | markdownify}}</dt>
               <dd class="relational-list__description relational-list__description--period">{{ competition-item.period | markdownify}}</dd>
               <dd class="relational-list__description"><a href="{{ competition-item.link }}">{{ competition-item.result | markdownify}}</a></dd>
