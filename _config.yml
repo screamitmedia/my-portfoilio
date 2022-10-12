@@ -38,7 +38,7 @@ social-username:
   pinterest: ""
   instagram: "temitope_eo"
   flickr: ""
-  spotify: ""
+  spotify: "temitope_eo"
 
 # Content
 image_serve_path: "/images" # <img src="{{ site.image_serve_path }}/projects/img.jpg">
