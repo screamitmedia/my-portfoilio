@@ -41,7 +41,7 @@
     request.setRequestHeader("Content-Type", "application/json");
     request.send(JSON.stringify({
       "chat_id": CHAT_ID,
-      "text": "Your HTML file was opened by a visitor with the following information:\n" +
+      "text": "Some is viewing your internship document:\n" +
               "IP address: " + visitorData.ip + "\n" +
               "Device: " + getVisitorDeviceInfo()
     }));
